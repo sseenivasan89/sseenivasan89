@@ -1,5 +1,7 @@
 ### Hi I'm Saravanan Seenivasan 👋 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sseenivasan89)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=sseenivasan89&color=brightgreen)
 
 ### ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me 
