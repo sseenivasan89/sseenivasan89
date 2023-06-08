@@ -5,8 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=sseenivasan89&color=brightgreen)
 
 ### ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me 
- - :computer: Overall 11+ years of experience in IT where last 7+ years working as Software Tester
+ - :computer: I am a seasoned software tester professional with over 12+ years of experience
  - :mortar_board: Bachelor of Engineering in Computer Science Engineering
+ - :mortar_board: Master of Business Administration
  - 💻 Software Tester
  - :book: A Learner 
  - ✍️ Blogger
